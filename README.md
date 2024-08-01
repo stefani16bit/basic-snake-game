@@ -1,5 +1,5 @@
 # Snake Game
-A basic implementation of the classic Snake Game in Python making use of Pygame.
+A basic implementation of the classic Snake Game in Python making use of Pygame and SQL for local score saving.
 
 ### Setting up
 - Must have [Python](https://www.python.org) installed.
